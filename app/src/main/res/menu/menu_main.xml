@@ -13,4 +13,7 @@
         android:icon="@android:drawable/ic_search_category_default"
         android:title="Search"
         app:showAsAction="ifRoom" />
+    <item android:title="click if tal is black"
+        android:onClick="openMain4"
+        />
 </menu>
